@@ -2,6 +2,6 @@
 ### This is a tertiary heading
 
 ## Unordered list
-*first
-*second
-*third
+* first
+* second
+* third
